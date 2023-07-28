@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format= '[%(asctime)s]: %(message)s')
 
-project_name = 'TEXT-SUMMARIZATION-PROJECT'
+project_name = 'textSummarizer'
 
 list_files = [
 
